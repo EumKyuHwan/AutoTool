@@ -2,7 +2,7 @@
 global SYSTEM_LOAD_DELAY := 1000 			;Loading등의 시간
 global KEY_INPUT_DELAY := 500				 ;키보드 조작 시간
 global MOUSE_INPUT_DELAY := 500 			;마우스 조작 시간
-global SYSTEM_LINE_DELAY := 300 			;코드간 딜레이가 필요시
+global SYSTEM_LINE_DELAY := 200 			;코드간 딜레이가 필요시
 
 loginWindowsSetup()
 {
